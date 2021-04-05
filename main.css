@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.container{
+    margin: 10vh;
+}
+.card-1{
+    background-color: hsl(31, 77%, 52%);
+    padding: 60px;
+    color: white;
+    border-radius: 5px;
+}
+.card-2{
+    background-color: hsl(184, 100%, 22%);
+    padding: 60px;
+    color: white;
+    border-radius: 5px;
+}
+.card-3{
+    background-color: hsl(179, 100%, 13%);
+    padding: 60px;
+    color: white;
+    border-radius: 5px;
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Lexend Deca';
+}
+p{
+    margin-bottom: 65px;
+    font-family: 'Big Shoulders Display';
+}
+.btn{
+    border-radius: 25px;
+}
+#button-1{
+    color: hsl(31, 77%, 52%);
+}
+#button-2{
+    color: hsl(184, 100%, 22%);
+}
+#button-3{
+    color: hsl(179, 100%, 13%);
+}
